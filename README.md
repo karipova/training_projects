@@ -1,5 +1,5 @@
 # training_projects
-This repository includes projects made during the course from Yandex.Practicum platform.
+This repository includes projects made during the data analyst course from Yandex.Practicum platform.
 ## [Certificate](https://drive.google.com/file/d/1jTmTbE5eiMiadU80s_Xeh1VL5msrFHaw/view?usp=sharing)
 
 |№|Project	      |Description                                        |
