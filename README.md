@@ -1,3 +1,14 @@
 # training_projects
 This repository includes projects made during the course from Yandex.Practicum platform.
 ## Certificate: https://drive.google.com/file/d/1jTmTbE5eiMiadU80s_Xeh1VL5msrFHaw/view?usp=sharing
+
+|№|Project	      |Description                                        |
+|:----|:------------------------|:-----------------------------------------------------|
+|1|[Research of user behavior with food sales application data](https://https://github.com/karipova/training_projects/1_Research of user behavior with food sales application data)|A startup company that sells food through a mobile application asks to research the user behaviour. It is necessary to study the sales funnel and the results of an A/A/B experiment related to changing fonts in the application.|
+|2|[Monetization model for mobile game](https://https://github.com/karipova/training_projects/2_Monetization model for mobile game))|Introduce a monetization model for a gaming application.|
+|3|[Определение выгодного тарифа для телеком компании](https://github.com/dzhohal/yandex-practicum-projects/blob/main/telecom/telecom.ipynb)|На основе данных клиентов оператора сотовой связи проанализировать поведение клиентов и поиск оптимального тарифа|
+|4|[Изучение закономерностей, определяющих успешность игр](https://github.com/dzhohal/yandex-practicum-projects/blob/main/gamedev/gamedev.ipynb)|The customer is the credit department of the bank. It is necessary to understand whether the marital status and the number of children of the client affect the repayment of the loan on time. The statistics on the solvency of customers is used as an input data.|
+|5|[Исследование данных авиакомпании — проверить гипотезу о повышении спроса во время фестивалей](https://github.com/dzhohal/yandex-practicum-projects/blob/main/avia/avia.ipynb)|Произвести выгрузки и подготовку данных авиакомпаний с помощью SQL, проверить гипотезу о различии среднего спроса на билеты во время различных событий|
+|6|[Оптимизация маркетинговых затрат в Яндекс.Афише](https://github.com/dzhohal/yandex-practicum-projects/blob/main/afisha/afisha.ipynb)|На основе данных о посещениях сайта Яндекс.Афиши изучить, как люди пользуются продуктом, когда они начинают покупать, сколько денег приносит каждый клиент, когда он окупается|
+|7|[Проверка гипотез по увеличению выручки в интернет-магазине — оценить результаты A/B теста](https://github.com/dzhohal/yandex-practicum-projects/blob/main/AB%20test/AB%20test.ipynb)|Используя данные интернет-магазина приоритезировать гипотезы, произвести оценку результатов A/B-тестирования различными методами|
+|8|[Исследования рынка общепита в Москве для принятия решения об открытии нового заведения](https://github.com/dzhohal/yandex-practicum-projects/blob/main/public%20catering/public_catering.ipynb)|Исследование рынка общественного питания на основе открытых данных, подготовка презентации для инвесторов|
